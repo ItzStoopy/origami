@@ -1,0 +1,17 @@
+#origami{
+height:300px;
+width:300px;
+}
+#allorigami{
+font-family: serif;
+font-size:30px;
+text-align: center;
+color:black;
+}
+#Origami{
+font-family:monospace;
+font-size:40px;
+}
+body {
+text-align:center;
+}
